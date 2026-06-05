@@ -70,3 +70,6 @@ User → React Native UI → expo-camera → Backend API
 - expo, expo-router, expo-camera, expo-sqlite
 - nativewind (Tailwind CSS)
 - react-native-reanimated, react-native-gesture-handler
+
+
+

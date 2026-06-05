@@ -1,5 +1,8 @@
 # Offline Secure Facial Recognition & Liveness Detection
 
+
+Video Link : https://drive.google.com/drive/folders/1wt1IR_yHXU6SYCPKu6pS3dqZzhVNa7pg?usp=sharing
+
 An edge AI-powered biometric authentication system for NHAI Hackathon 7.0.
 Works fully offline on mobile devices with anti-spoofing security and Datalake 3.0 integration.
 
@@ -192,6 +195,11 @@ The following features are part of the product roadmap and not yet implemented i
 - No smile detection implemented
 
 ---
+
+## Documentation
+
+[**Offline Secure FaceID — Technical Report**](./docs/offline_secure_faceid_technical_report.pdf)
+Comprehensive technical documentation covering architecture, model details, security analysis, and implementation guide.
 
 ## Prototype Images
 
